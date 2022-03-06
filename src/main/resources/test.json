@@ -1,0 +1,9 @@
+{
+  "liczba" : 6,
+  "tekst" : "Hej, co tam?",
+  "lista" : ["1234", "5678"],
+  "obiekt" : {
+    "nowy_tekst" : "1647861478612"
+  }
+
+}
